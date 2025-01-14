@@ -70,8 +70,3 @@ This project is a web application that scrapes trending topics from Twitter usin
 1. Ensure the backend server is running.
 2. Open your browser and navigate to `http://localhost:3000`.
 3. Click the "Click here to run the script" button to scrape the latest Twitter trends.
-
-
-## License
-
-This project is licensed under the MIT License.
