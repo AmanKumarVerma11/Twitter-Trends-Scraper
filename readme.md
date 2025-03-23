@@ -12,6 +12,8 @@ This project is a web application that scrapes trending topics from Twitter usin
 
 ![Live Demo](assets/working.mp4)
 
+[![Watch the Video](https://img.youtube.com/vi/pm_XC8WKbxk/0.jpg)](https://youtu.be/pm_XC8WKbxk)
+
 ## Setup Instructions
 
 ### Prerequisites
